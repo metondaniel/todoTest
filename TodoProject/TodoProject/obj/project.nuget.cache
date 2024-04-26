@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wNK5i7I9EfjjolhzzOIavifvfeVE23kSQ1drdWbHIfwU0WhjDHn+yMcxugjdQfn4NRJeHyBUsbmwkWgrTpKfgA==",
+  "dgSpecHash": "SjV3KtecvPAiIPDgK80S69VGxsonT3635uR8r/JoDUJOygJ0YP3HYYFd+RvceNbmbOnOEmDNI82SYn6dxznGBQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject\\TodoProject.csproj",
+  "projectFilePath": "C:\\Projects\\todoTest\\TodoProject\\TodoProject\\TodoProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

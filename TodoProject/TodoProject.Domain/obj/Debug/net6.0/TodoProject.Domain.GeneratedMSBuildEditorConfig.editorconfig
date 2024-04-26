@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoProject.Domain
-build_property.ProjectDir = C:\Projects\TestTodo\TodoProject\TodoProject.Domain\
+build_property.ProjectDir = C:\Projects\todoTest\TodoProject\TodoProject.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

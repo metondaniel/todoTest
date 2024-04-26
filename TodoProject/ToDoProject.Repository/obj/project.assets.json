@@ -805,11 +805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\TestTodo\\TodoProject\\ToDoProject.Repository\\ToDoProject.Repository.csproj",
+      "projectUniqueName": "C:\\Projects\\todoTest\\TodoProject\\ToDoProject.Repository\\ToDoProject.Repository.csproj",
       "projectName": "ToDoProject.Repository",
-      "projectPath": "C:\\Projects\\TestTodo\\TodoProject\\ToDoProject.Repository\\ToDoProject.Repository.csproj",
+      "projectPath": "C:\\Projects\\todoTest\\TodoProject\\ToDoProject.Repository\\ToDoProject.Repository.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\TestTodo\\TodoProject\\ToDoProject.Repository\\obj\\",
+      "outputPath": "C:\\Projects\\todoTest\\TodoProject\\ToDoProject.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -832,8 +832,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\TodoProject.Domain.csproj": {
-              "projectPath": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\TodoProject.Domain.csproj"
+            "C:\\Projects\\todoTest\\TodoProject\\TodoProject.Domain\\TodoProject.Domain.csproj": {
+              "projectPath": "C:\\Projects\\todoTest\\TodoProject\\TodoProject.Domain\\TodoProject.Domain.csproj"
             }
           }
         }
