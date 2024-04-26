@@ -1,0 +1,15 @@
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\bin\Debug\net6.0\ToDoProject.Repository.deps.json
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\bin\Debug\net6.0\ToDoProject.Repository.dll
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\bin\Debug\net6.0\ToDoProject.Repository.pdb
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\bin\Debug\net6.0\TodoProject.Domain.dll
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\bin\Debug\net6.0\TodoProject.Domain.pdb
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProject.Repository.csproj.AssemblyReference.cache
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProject.Repository.AssemblyInfoInputs.cache
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProject.Repository.AssemblyInfo.cs
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProject.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProj.A5DCB790.Up2Date
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProject.Repository.dll
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\refint\ToDoProject.Repository.dll
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ToDoProject.Repository.pdb
+C:\Projects\TestTodo\TodoProject\ToDoProject.Repository\obj\Debug\net6.0\ref\ToDoProject.Repository.dll

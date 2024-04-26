@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\TestTodo\\TodoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{829793CE-6E3E-4A9B-8C43-D6EF40D0B8A7}|TodoProject\\TodoProject.csproj|c:\\projects\\testtodo\\todoproject\\todoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829793CE-6E3E-4A9B-8C43-D6EF40D0B8A7}|TodoProject\\TodoProject.csproj|solutionrelative:todoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804B0B7E-487D-405B-95B6-CC35B52AFD19}|ToDoProject.Repository\\ToDoProject.Repository.csproj|c:\\projects\\testtodo\\todoproject\\todoproject.repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804B0B7E-487D-405B-95B6-CC35B52AFD19}|ToDoProject.Repository\\ToDoProject.Repository.csproj|solutionrelative:todoproject.repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829793CE-6E3E-4A9B-8C43-D6EF40D0B8A7}|TodoProject\\TodoProject.csproj|c:\\projects\\testtodo\\todoproject\\todoproject\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829793CE-6E3E-4A9B-8C43-D6EF40D0B8A7}|TodoProject\\TodoProject.csproj|solutionrelative:todoproject\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|c:\\projects\\testtodo\\todoproject\\todoproject.domain\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|solutionrelative:todoproject.domain\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|c:\\projects\\testtodo\\todoproject\\todoproject.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|solutionrelative:todoproject.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|c:\\projects\\testtodo\\todoproject\\todoproject.domain\\interfaces\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|solutionrelative:todoproject.domain\\interfaces\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|c:\\projects\\testtodo\\todoproject\\todoproject.domain\\interfaces\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2F8F61-0ED1-4F24-84AC-E1E4B3D5A83E}|TodoProject.Domain\\TodoProject.Domain.csproj|solutionrelative:todoproject.domain\\interfaces\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\Entities\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoProject.Domain\\Entities\\TodoItem.cs",
+              "ToolTip": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\Entities\\TodoItem.cs",
+              "RelativeToolTip": "TodoProject.Domain\\Entities\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:58:35.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\Interfaces\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoProject.Domain\\Interfaces\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\Interfaces\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "TodoProject.Domain\\Interfaces\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:49:58.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\TestTodo\\TodoProject\\ToDoProject.Repository\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "ToDoProject.Repository\\TodoRepository.cs",
+              "ToolTip": "C:\\Projects\\TestTodo\\TodoProject\\ToDoProject.Repository\\TodoRepository.cs",
+              "RelativeToolTip": "ToDoProject.Repository\\TodoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vwwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:48:24.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject\\Program.cs",
+              "RelativeDocumentMoniker": "TodoProject\\Program.cs",
+              "ToolTip": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject\\Program.cs",
+              "RelativeToolTip": "TodoProject\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:35:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoProject.Domain\\TodoService.cs",
+              "ToolTip": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\TodoService.cs",
+              "RelativeToolTip": "TodoProject.Domain\\TodoService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:48:03.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\Interfaces\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoProject.Domain\\Interfaces\\Services\\ITodoService.cs",
+              "ToolTip": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject.Domain\\Interfaces\\Services\\ITodoService.cs",
+              "RelativeToolTip": "TodoProject.Domain\\Interfaces\\Services\\ITodoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:52:12.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoProject\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Projects\\TestTodo\\TodoProject\\TodoProject\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoProject\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:44:11.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
